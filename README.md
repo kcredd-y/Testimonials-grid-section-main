@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kcredd-y/Testimonials-grid-section-main](https://your-solution-url.com)
-- Live Site URL: [https://kcredd-y.github.io/Testimonials-grid-section-main/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kcredd-y/Testimonials-grid-section-main]
+- Live Site URL: [https://kcredd-y.github.io/Testimonials-grid-section-main/]
 
 ## My process
 
